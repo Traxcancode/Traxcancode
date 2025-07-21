@@ -5,9 +5,9 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **[Hoodsense](https://www.youtube.com/watch?v=8orJ8hUIczQ)**
 - **[Azure Modded (ragebot)](https://discord.gg/azuremodded)**
 ## 🕒 Current Projects
-- **[gelato](https://discord.gg/7uKhy3ccEd)**
-- **[ventures](https://discord.gg/invite/v3n)**
-- **[metal](https://discord.gg/DPwtMjMe)**
+- **[Gelato](https://discord.gg/7uKhy3ccEd)**
+- **[Ventures](https://discord.gg/invite/v3n)**
+- **[Metal](https://discord.gg/DPwtMjMe)**
 ## 🛠️ Environment
 - **Preferred Tools, **IDA, x64dbg, bninja, vs/vscode.
 - **Preferred languages, **C++, x64 ASM, Lua, Luau
