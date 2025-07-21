@@ -1,5 +1,29 @@
-## Hi there 👋
+## About me
+Welcome to my Github page! I am Trax a fullstack developer and a intermediate reverse engineerer with a tie into Game Hacking.
 
+## ⏰ Previous Projects 
+- **[Hoodsense](https://www.youtube.com/watch?v=8orJ8hUIczQ)**
+- **[Azure Modded (ragebot)](https://discord.gg/azuremodded)**
+## 🕒 Current Projects
+- **[gelato](https://discord.gg/7uKhy3ccEd)**
+- **[ventures](https://discord.gg/invite/v3n)**
+- **[metal](https://discord.gg/DPwtMjMe)**
+## 🛠️ Environment
+- **Preferred Tools, **IDA, x64dbg, bninja, vs/vscode.
+- **Preferred languages, **C++, x64 ASM, Lua, Luau
+## ⚡ Game Hacking
+- **Compitent External & Internal developer.**
+- **7+ years in the industry, 5 in reverse engineering.**
+## 🔭 Previous Fields
+- **Malware Analysis (Cybersecurity)**
+- **Professional opsec downloader.**
+## 💬 Connections
+- **[youtube](https://www.youtube.com/@traxcancode)**
+- **[discord](https://discord.com/users/1274005742076035164)**
+- **[roblox](https://www.roblox.com/users/2647531350/profile)**
+## 🌱 Future Goals
+- **Fluent in assembly (x86 & x64).**
+- **Ability to devirtualize virtualized programs,**
 <!--
 **Traxcancode/Traxcancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
