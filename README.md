@@ -9,8 +9,8 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **[Ventures](https://discord.gg/invite/v3n)**
 - **[Metal](https://discord.gg/DPwtMjMe)**
 ## 🛠️ Environment
-- **Preferred Tools, **IDA, x64dbg, bninja, vs/vscode.
-- **Preferred languages, **C++, x64 ASM, Lua, Luau
+- **Preferred Tools,** IDA, x64dbg,Binary Ninja, VS/VScode.
+- **Preferred languages,** C++, x64 ASM, Lua, Luau
 ## ⚡ Game Hacking
 - **Compitent External & Internal developer.**
 - **7+ years in programming, 5 in reverse engineering.**
