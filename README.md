@@ -18,9 +18,9 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **Malware Analysis (Cybersecurity)**
 - **Professional opsec downloader.**
 ## 💬 Connections
-- **[youtube](https://www.youtube.com/@traxcancode)**
-- **[discord](https://discord.com/users/1274005742076035164)**
-- **[roblox](https://www.roblox.com/users/2647531350/profile)**
+- **[YouTube](https://www.youtube.com/@traxcancode)**
+- **[Discord](https://discord.com/users/1274005742076035164)**
+- **[ROBLOX](https://www.roblox.com/users/2647531350/profile)**
 ## 🌱 Future Goals
 - **Fluent in assembly (x86 & x64).**
 - **Ability to devirtualize virtualized programs,**
