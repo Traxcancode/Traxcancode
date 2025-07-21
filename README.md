@@ -13,7 +13,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **Preferred languages, **C++, x64 ASM, Lua, Luau
 ## ⚡ Game Hacking
 - **Compitent External & Internal developer.**
-- **7+ years in the industry, 5 in reverse engineering.**
+- **7+ years in programming, 5 in reverse engineering.**
 ## 🔭 Previous Fields
 - **Malware Analysis (Cybersecurity)**
 - **Professional opsec downloader.**
