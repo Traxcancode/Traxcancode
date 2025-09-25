@@ -8,6 +8,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **[Intellect.club](https://discord.gg/7uKhy3ccEd)**
 - **[Ventures](https://discord.gg/invite/v3n)**
 - **[Metal](https://discord.gg/DPwtMjMe)**
+- **[Eclipse](https://discord.gg/RQVRUF77sR)**
 ## 🛠️ Environment
 - **Preferred Tools,** IDA, x64dbg,Binary Ninja, VS/VScode.
 - **Preferred languages,** C++, x64 ASM, Lua, Luau
@@ -24,6 +25,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 ## 🌱 Future Goals
 - **Fluent in assembly (x86 & x64).**
 - **Ability to devirtualize virtualized programs,**
+- **Mastery of electronic engineering and RF/IR Communication.**
 <!--
 **Traxcancode/Traxcancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
