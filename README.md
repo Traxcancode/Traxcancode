@@ -6,7 +6,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **[Azure Modded (ragebot)](https://discord.gg/azuremodded)**
 - **[Intellect.club](https://discord.gg/7uKhy3ccEd)**
 ## 🕒 Current Projects
-- **[Soteria]([https://discord.gg/7uKhy3ccEd](https://discord.gg/UjQdAJpwAd))**
+- **[Soteria](https://discord.gg/4ysQt5ubt7)**
 - **[Ventures](https://discord.gg/invite/v3n)**
 ## 🛠️ Environment
 - **Preferred Tools,** IDA, x64dbg,Binary Ninja, VS/VScode.
