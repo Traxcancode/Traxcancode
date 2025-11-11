@@ -4,11 +4,10 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 ## ⏰ Previous Projects 
 - **[Hoodsense](https://www.youtube.com/watch?v=8orJ8hUIczQ)**
 - **[Azure Modded (ragebot)](https://discord.gg/azuremodded)**
-## 🕒 Current Projects
 - **[Intellect.club](https://discord.gg/7uKhy3ccEd)**
+## 🕒 Current Projects
+- **[Soteria]([https://discord.gg/7uKhy3ccEd](https://discord.gg/UjQdAJpwAd))**
 - **[Ventures](https://discord.gg/invite/v3n)**
-- **[Metal](https://discord.gg/DPwtMjMe)**
-- **[Eclipse](https://discord.gg/RQVRUF77sR)**
 ## 🛠️ Environment
 - **Preferred Tools,** IDA, x64dbg,Binary Ninja, VS/VScode.
 - **Preferred languages,** C++, x64 ASM, Lua, Luau
@@ -26,6 +25,10 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **Fluent in assembly (x86 & x64).**
 - **Ability to devirtualize virtualized programs,**
 - **Mastery of electronic engineering and RF/IR Communication.**
+## ✨ Current Strengths
+- **Obfuscation of PE Files.**
+- **Bypassing Anti Tamper programs.**
+- **Virtualization**
 <!--
 **Traxcancode/Traxcancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
