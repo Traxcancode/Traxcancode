@@ -9,7 +9,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **[Soteria](https://discord.gg/4ysQt5ubt7)**
 - **[Ventures](https://discord.gg/invite/v3n)**
 ## 🛠️ Environment
-- **Preferred Tools,** IDA, x64dbg,Binary Ninja, VS/VScode.
+- **Preferred Tools,** IDA, x64dbg, Binary Ninja, VS/VScode, ProcMon.
 - **Preferred languages,** C++, x64 ASM, Lua, Luau
 ## ⚡ Game Hacking
 - **Compitent External & Internal developer.**
