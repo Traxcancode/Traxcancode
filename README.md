@@ -16,7 +16,7 @@ Welcome to my Github page! I am Trax a fullstack developer and a intermediate re
 - **7+ years in programming, 5 in reverse engineering.**
 ## 🔭 Previous Fields
 - **Malware Analysis (Cybersecurity)**
-- **Professional opsec downloader.**
+- **Professional OPSEC downloader.**
 ## 💬 Connections
 - **[YouTube](https://www.youtube.com/@traxcancode)**
 - **[Discord](https://discord.com/users/1274005742076035164)**
